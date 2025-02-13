@@ -7,4 +7,5 @@ main{
 main img{
     width:286px;
     height: 280px;
+    object-fit: cover;
 }
